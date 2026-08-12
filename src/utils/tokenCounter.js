@@ -6,7 +6,7 @@ let encoder = null;
  */
 async function getEncoder() {
   if (!encoder) {
-    const mod = await import('gpt-tokenizer/esm/main.js');
+    const mod = await import('gpt-tokenizer');
     encoder = mod;
   }
   return encoder;
