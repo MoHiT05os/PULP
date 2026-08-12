@@ -10,7 +10,7 @@
 <br />
 
 <div align="center">
-  <img src="public/screenshot.png" alt="PULP UI Preview" width="100%" style="border-radius: 8px; box-shadow: 0 4px 24px rgba(0,0,0,0.5);">
+  <img src="Screenshot 2026-08-12 110251.png" alt="PULP UI Preview" width="100%" style="border-radius: 8px; box-shadow: 0 4px 24px rgba(0,0,0,0.5);">
 </div>
 
 <br />
